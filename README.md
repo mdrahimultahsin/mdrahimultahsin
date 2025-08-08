@@ -13,7 +13,7 @@
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mdrhtahsin10) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahimultahsin) [![LinkedIn](https://img.shields.io/badge/twitter-%230077B5.svg?logo=twitter&logoColor=white)](https://linkedin.com/in/rahimultahsin) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/mdrhtahsin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahimultahsin) [![LinkedIn](https://img.shields.io/badge/twitter-%230077B5.svg?logo=twitter&logoColor=white)](https://x.com/MdrhTahsin) 
 
 
 # 💻 Tech Stack:
