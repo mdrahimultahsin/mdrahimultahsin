@@ -5,7 +5,7 @@
 </a>
 
 # 💫 About Me:
-👋 Hi, I’m Md Rahimul Tahsin  
+👋 Hi, I’m Md Rahimul Haq  
 💻 Frontend-Focused MERN Stack Web Developer  
 ⚡ Skilled in React, Tailwind CSS, and modern JavaScript (ES6+).  
 🌱 Expanding backend knowledge with Node.js, Express, and MongoDB.  
@@ -15,6 +15,10 @@
 ✉️ Email: mdrahimultahsin@email.com  
 📞 Phone: +8801615861498
 
+## 🔄 Current Activities:
+- Exploring **Next.js** to build modern, server-side rendered React apps.  
+- Looking to collaborate on open source projects.  
+- Exploring advanced motion graphics for web development.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/mdrhtahsin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahimultahsin) [![Twitter Follow](https://img.shields.io/twitter/follow/MdrhTahsin?style=social)](https://x.com/MdrhTahsin)
@@ -32,19 +36,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=mdrahimultahsin&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!--
-**mdrahimultahsin/mdrahimultahsin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
