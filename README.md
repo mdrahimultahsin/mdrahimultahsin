@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-<a href="https://www.facebook.com/mirhussainmurtaza/">
-<img src="https://raw.githubusercontent.com/mir-hussain/mir-hussain/main/images/cover.svg" />
+<a href="https://www.facebook.com/mdrhtahsin10/">
+<img src="https://raw.githubusercontent.com/mdrahimultahsin/mdrahimultahsin/main/banner.png" />
 </a>
 
 # 💫 About Me:
