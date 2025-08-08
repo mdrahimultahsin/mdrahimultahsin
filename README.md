@@ -5,11 +5,15 @@
 </a>
 
 # 💫 About Me:
-👋 Hi, I’m Md Rahimul Tahsin
-💻 Frontend-Focused MERN Stack Web Developer
-⚡ Skilled in React, Tailwind CSS, and modern JavaScript (ES6+).
-🌱 Expanding backend knowledge with Node.js, Express, and MongoDB.
+👋 Hi, I’m Md Rahimul Tahsin  
+💻 Frontend-Focused MERN Stack Web Developer  
+⚡ Skilled in React, Tailwind CSS, and modern JavaScript (ES6+).  
+🌱 Expanding backend knowledge with Node.js, Express, and MongoDB.  
 🚀 Love creating full-stack projects that solve real-world problems.
+
+📍 Location: Bangladesh  
+✉️ Email: mdrahimultahsin@email.com  
+📞 Phone: +8801615861498
 
 
 ## 🌐 Socials:
