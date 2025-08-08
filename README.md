@@ -5,7 +5,8 @@
 </a>
 
 # 💫 About Me:
-I'm currently improving my skill
+👋 Hi, I’m Md Rahimul Tahsin
+💻 Frontend-Focused MERN Stack Web Developer
 
 
 ## 🌐 Socials:
