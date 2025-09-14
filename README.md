@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <a href="https://www.facebook.com/mdrhtahsin10/">
-<img src="https://raw.githubusercontent.com/mdrahimultahsin/mdrahimultahsin/main/github_banner.jpg" />
+<img src="https://raw.githubusercontent.com/mdrahimultahsin/mdrahimultahsin/main/banner.png" />
 </a>
 
 # 💫 About Me:
